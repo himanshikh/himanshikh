@@ -22,7 +22,7 @@ Currently, I’m enhancing my skills through hands-on projects and developing a 
 ---
 
 ## Let’s connect! 
-[LinkedIn]([https://www.linkedin.com/in/himanshi-35961b302/]) |  [Email](himanshi@iitbhilai.ac.in)
+[LinkedIn](https://www.linkedin.com/in/himanshi-35961b302/) |  [Email](himanshi@iitbhilai.ac.in)
 
 <!--
 **himanshikh/himanshikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
